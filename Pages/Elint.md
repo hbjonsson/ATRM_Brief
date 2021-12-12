@@ -47,17 +47,9 @@ ELINT1 and ELINT2 are C17s with an embedded ESM suite, but these roles can be fi
 | --------  | ----------- | - | - |
 | C-130     | 0.65 / 0.07 | A ||
 | C-17      | 0.46 / 0.05 | A ||
-| An-30M    | 0.92 / 0.10 | A ||
-| Tu-95     | 0.46 / 0.05 | A ||
-| Tu-142    | 0.46 / 0.05 | A ||
-| IL-76MD   | 0.60 / 0.06 | A ||
 | S-3B      | 1.59 / 0.17 | A ||
 | E-2D      | 6.54 / 0.70 | C ||
 | E-3A      | 5.09 / 0.55 | C ||
-| An-26B    | 0.98 / 0.10 | A ||
-| A-50      | 5.09 / 0.55 | C ||
-| Viggen    | 5.09 / 0.55 | C | U22 |
-| Su-25T    | 6.54 / 0.70 | C | Fantasmagoria |  
 | F-16C     | 15.79 / 1.69| D | Block 50 w/HTS |
 
 <sup>*</sup> Data with angular resolution below 10 deg is rejected. 
@@ -66,20 +58,8 @@ ELINT1 and ELINT2 are C17s with an embedded ESM suite, but these roles can be fi
 ---
 | Platform  | Accuracy Deg. (C/H Bands)| Min. Band |
 | --------  | ----------  | - |
-| CH-47D    | 1.91 / 0.20 | A |
-| CH-53E    | 2.29 / 0.25 | A |
-| MIL-26    | 1.15 / 0.12 | A |
-| UH-60A    | 2.86 / 0.31 | B |
-| SH-60B    | 2.86 / 0.31 | B |
 | Mi-8MT    | 2.86 / 0.31 | B |
-| UH-1H     | 5.73 / 0.61 | B |
-| Ka-27     | 5.73 / 0.61 | C | 
 
-### Ground Units
-| Platform  | Accuracy Deg. (C/H Bands) | Min. Band |
-| --------  | --------    | - |
-| SPK-11    | 1.53 / 0.16 | A |
-| MLRS FDDM | 1.53 / 0.16 | A | 
 
 ### Static Objects
 | Platform  | Accuracy Deg. (C/H Bands) | Min. Band |
