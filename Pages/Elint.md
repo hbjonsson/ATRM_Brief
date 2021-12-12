@@ -14,6 +14,7 @@ CAT 3 - 6 is high accuracy - suffxed by the category. e.g. "high accuracy CAT 3"
 Anything outside CAT 6 is "accuracy low".
 
 ** Accuracy ** | TLE | ** meters **
+-------------- | --- | ------------
 Targetable | CAT1-2 | < 0.1 to 15
 High accuracy | CAT3 | < 30
 High accuracy | CAT4 | < 91
